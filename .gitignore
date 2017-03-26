@@ -75,3 +75,5 @@ fabric.properties
 ### Sass ###
 .sass-cache/
 *.css.map
+/inc/db_vidainglescore_conn.php
+/inc/db_vidainglescore_connn.php
