@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ftp-vi">
+    <serverData>
+      <paths name="ftp-vi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html" local="$PROJECT_DIR$" web="v2" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/public_html/.htpasswds" />
+            <excludedPath path="/public_html/audio" />
+            <excludedPath path="/public_html/bower_components" />
+            <excludedPath path="/public_html/cetec" />
+            <excludedPath path="/public_html/cetecc" />
+            <excludedPath path="/public_html/cgi-bin" />
+            <excludedPath path="/public_html/clase-html5-css3" />
+            <excludedPath path="/public_html/code" />
+            <excludedPath path="/public_html/comp" />
+            <excludedPath path="/public_html/cron-jobs" />
+            <excludedPath path="/public_html/fr" />
+            <excludedPath path="/public_html/greg" />
+            <excludedPath path="/public_html/miprospecto.com" />
+            <excludedPath path="/public_html/modules" />
+            <excludedPath path="/public_html/outline-test" />
+            <excludedPath path="/public_html/pdf" />
+            <excludedPath path="/public_html/preint_pdf" />
+            <excludedPath path="/public_html/presentations" />
+            <excludedPath path="/public_html/pro-spectar25-07-2015" />
+            <excludedPath path="/public_html/test" />
+            <excludedPath path="/public_html/vidaguitarra" />
+            <excludedPath path="/public_html/webdevelopment" />
+            <excludedPath path="/public_html/ceteci" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.htpasswds" />
+            <excludedPath local="true" path="$PROJECT_DIR$/audio" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bower_components" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cetec" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cetecc" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cgi-bin" />
+            <excludedPath local="true" path="$PROJECT_DIR$/clase-html5-css3" />
+            <excludedPath local="true" path="$PROJECT_DIR$/code" />
+            <excludedPath local="true" path="$PROJECT_DIR$/comp" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cron-jobs" />
+            <excludedPath local="true" path="$PROJECT_DIR$/fr" />
+            <excludedPath local="true" path="$PROJECT_DIR$/greg" />
+            <excludedPath local="true" path="$PROJECT_DIR$/miprospecto.com" />
+            <excludedPath local="true" path="$PROJECT_DIR$/modules" />
+            <excludedPath local="true" path="$PROJECT_DIR$/outline-test" />
+            <excludedPath local="true" path="$PROJECT_DIR$/pdf" />
+            <excludedPath local="true" path="$PROJECT_DIR$/preint_pdf" />
+            <excludedPath local="true" path="$PROJECT_DIR$/presentations" />
+            <excludedPath local="true" path="$PROJECT_DIR$/pro-spectar25-07-2015" />
+            <excludedPath local="true" path="$PROJECT_DIR$/test" />
+            <excludedPath local="true" path="$PROJECT_DIR$/vidaguitarra" />
+            <excludedPath local="true" path="$PROJECT_DIR$/webdevelopment" />
+            <excludedPath local="true" path="$PROJECT_DIR$/ceteci" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

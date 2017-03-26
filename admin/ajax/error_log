@@ -1,0 +1,4 @@
+[31-Mar-2016 15:48:58 America/Mexico_City] PHP Fatal error:  Call to undefined function myqli_real_escape_string() in /home2/vidaingl/public_html/admin/ajax/ajax_add_lesson.php on line 9
+[31-Mar-2016 16:03:27 America/Mexico_City] PHP Fatal error:  Call to undefined function myqli_real_escape_string() in /home2/vidaingl/public_html/admin/ajax/ajax_add_lesson.php on line 9
+[31-Mar-2016 16:09:17 America/Mexico_City] PHP Fatal error:  Call to undefined function myqli_real_escape_string() in /home2/vidaingl/public_html/admin/ajax/ajax_add_lesson.php on line 9
+[31-Mar-2016 16:15:59 America/Mexico_City] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home2/vidaingl/public_html/admin/ajax/ajax_add_lesson.php on line 9
